@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amitthecoder](https://github.com/amitthecoder)
 
-- 📝 I regularly write articles on [https://github.com/amitthecoder](https://github.com/amitthecoder)
+- 📝 I regularly write articles on [https://www.illusionuniverse.in](https://www.illusionuniverse.in)
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **amitmusicians@gmail.com**
-
 - 📄 Know about my experiences [https://github.com/amitthecoder](https://github.com/amitthecoder)
+
+- google Developer Account - [https://g.dev/amitthecoder](https://g.dev/amitthecoder)
 
 - ⚡ Fun fact **I think I am funny.**
 
