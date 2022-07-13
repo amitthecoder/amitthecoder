@@ -9,17 +9,19 @@
 
 - 🌱 I’m currently learning **Android App Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amitthecoder](https://github.com/amitthecoder)
+- 👨‍💻 All of my projects are available at [Amit The Coder in GitHub](https://github.com/amitthecoder)
 
-- 📝 I regularly write articles on [https://www.illusionuniverse.in](https://www.illusionuniverse.in)
+- 📝 I regularly write articles on [illusion Universe](https://www.illusionuniverse.in)
 
 - 💬 Ask me about **Java**
 
-- 📄 Know about my experiences [https://github.com/amitthecoder](https://github.com/amitthecoder)
+- 📄 Know about my experiences [Amit The Coder in GitHub](https://github.com/amitthecoder)
 
-- google Developer Account - [https://g.dev/amitthecoder](https://g.dev/amitthecoder)
+- 🧑 Google Developer Account - [Amit Kumar](https://g.dev/amitthecoder)
 
 - ⚡ Fun fact **I think I am funny.**
+
+- 👨‍🦯 Working at [illusion Universe](https://www.illusionuniverse.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
