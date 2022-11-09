@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Amit Kumar. A Android app developer.
+I'm Amit Kumar. An Android app developer.
 
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
@@ -23,7 +23,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/amitthecoders).
 - I am writing regular blog on [illusion Universe](https://www.illusionuniverse.in).
-- My portfolio [website](https://amitmusician.xyz)
+- My portfolio [website](https://amitmusician.xyz).
 - And of course GitHub you're already on (Recursion).
 
 
