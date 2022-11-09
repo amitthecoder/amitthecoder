@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="(https://github.com/amitthecoders/amitthecoders/blob/main/resources/banner.png)" alt="Hello world">
+<img src="https://github.com/amitthecoders/amitthecoders/blob/main/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
