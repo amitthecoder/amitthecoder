@@ -21,9 +21,9 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/amitthecoders).
-- I am writing regular blog on [illusion Universe](https://www.illusionuniverse.in).
-- My portfolio [website](https://amitmusician.xyz).
+- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/amitthecoder).
+- I am writing regular blog on .
+- My portfolio [Github](https://github.com/amitthecoder).
 - And of course GitHub you're already on (Recursion).
 
 
