@@ -2,23 +2,24 @@
 
 <img src="https://github.com/amitthecoders/amitthecoders/blob/main/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Support Me<br>
-  ![Youtube](<https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white>)
-</p>
 
-## About me
+### About me
 
 I'm Amit Kumar. An Android app developer. 
 
 
-## Things I am passionate about
+### Interested
 
-- Android ❣️
-- Kotlin 😍
+- Android
+- Kotlin
+- Java
+- Jetpack Compose
 
-## Get in touch :coffee:
+### Support Me
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/amitthecoder_).
-- My portfolio [Github](https://github.com/amitthecoder).
+- [Twitter](https://twitter.com/amitthecoder_)
+- [Youtube](https://www.youtube.com/@amitthecoder)
+- [Google Developer](https://g.dev/amitthecoder)
+- [Google Play](https://play.google.com/store/apps/dev?id=8173184158513909416)
+- [Github](https://github.com/amitthecoder)
 
