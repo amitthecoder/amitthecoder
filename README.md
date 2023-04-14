@@ -5,8 +5,7 @@
 
 ### About me
 
-I'm Amit Kumar. An Android app developer. 
-
+I'm a Android app developer who loves building apps for Android. I write code in Kotlin and Java, and I like to focus on creating beautiful user experiences. 
 
 ### Interested
 
