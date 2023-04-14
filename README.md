@@ -3,8 +3,8 @@
 <img src="https://github.com/amitthecoders/amitthecoders/blob/main/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/amitthecoders/count.svg" />
+  Support Me<br>
+  https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
 </p>
 
 ## About me
