@@ -25,4 +25,5 @@ Overall, I am a passionate and dedicated Android app developer who is committed 
 - [Google Developer](https://g.dev/amitthecoder)
 - [Google Play](https://play.google.com/store/apps/dev?id=8173184158513909416)
 - [Github](https://github.com/amitthecoder)
+- [Linkedln](https://www.linkedin.com/in/amitthecoder)
 
