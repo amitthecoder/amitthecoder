@@ -16,7 +16,7 @@ I enjoy learning about new tools and techniques that can improve the app develop
 
 ### Support Me
 
-- [Twitter](https://twitter.com/amitthecoder_)
+- [X](https://x.com/amitthecoder_)
 - [Youtube](https://www.youtube.com/@amitthecoder)
 - [Google Developer](https://g.dev/amitthecoder)
 - [Google Play](https://play.google.com/store/apps/dev?id=8173184158513909416)
