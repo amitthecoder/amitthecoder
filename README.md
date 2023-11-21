@@ -14,7 +14,7 @@ I believe that a good app should not only be functional but also look great. The
 I enjoy learning about new tools and techniques that can improve the app development process. I also collaborate with designers, product managers, and other developers to ensure that the team is aligned and working towards a common goal. I am always open to feedback and willing to adjust my approach to create better apps.
 
 
-### Support Me
+### Reach Out
 
 - [X](https://x.com/amitthecoders)
 - [Youtube](https://www.youtube.com/@amitthecoder)
@@ -22,4 +22,5 @@ I enjoy learning about new tools and techniques that can improve the app develop
 - [Google Play](https://play.google.com/store/apps/dev?id=8173184158513909416)
 - [Github](https://github.com/amitthecoder)
 - [Linkedln](https://www.linkedin.com/in/amitthecoder)
+- [Leetcode](https://leetcode.com/amitthecoder)
 
