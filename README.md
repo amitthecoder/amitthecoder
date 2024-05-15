@@ -16,13 +16,9 @@ I enjoy learning about new tools and techniques that can improve the app develop
 
 ### Reach Out
 
-- [X](https://x.com/amitthecoders)
-- [Youtube](https://www.youtube.com/@amitthecoder)
 - [Google Developer](https://g.dev/amitthecoder)
-- [Google Play](https://play.google.com/store/apps/dev?id=8173184158513909416)
 - [Github](https://github.com/amitthecoder)
 - [Linkedln](https://www.linkedin.com/in/amitthecoder)
-- [Leetcode](https://leetcode.com/amitthecoder)
 
 ###
 
