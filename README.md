@@ -1,4 +1,4 @@
-# Welcome 🥰
+# Welcome
 
 <img src="https://github.com/amitthecoders/amitthecoders/blob/main/resources/banner.png" alt="Hello world">
 
