@@ -38,3 +38,79 @@ I enjoy learning about new tools and techniques that can improve the app develop
 
 ###
 
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
+<details>
+<p align="center">
+  <a href="https://github.com/myselfshivams">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfshivams&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/myselfshivams">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myselfshivams&theme=radical" alt="Shivam's GitHub Contribution"/>
+  </a>
+</p>
+
+<hr>
+<div align="center">
+<a> 
+<!--     <a href="https://github.com/myselfshivams"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=myselfshivams&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
+
+  <div align="center">
+  <a href="https://github.com/myselfshivams"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=myselfshivams&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br>
+</a>
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--- Shivam's Quotes ----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+  <hr><div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Technology Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<hr>
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Developers' Quotes
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--- Shivam's Activity Graph ----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=myselfshivams&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
+</details>
+
+
+
+| Overview | Follow up Issues & PRs |
+|:--------:|:-------------------------:|
+| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
+| Leetcode Stats | Notable Contributions |
+| ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
+| Achievements | Language Activity |
+| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
+| Discussions | Reactions |
+| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
+
+                  
+<br>
+
