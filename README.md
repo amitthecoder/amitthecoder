@@ -43,7 +43,7 @@ I enjoy learning about new tools and techniques that can improve the app develop
 <a href="https://codeforces.com/profile/">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=codeforces&theme=github_dark&force_username=true&border_color=404040" alt="Shivam Codeforces Stats"/>
 </a>
-
+</details>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
