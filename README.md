@@ -38,7 +38,7 @@ I enjoy learning about new tools and techniques that can improve the app develop
 <div align="center>
 
 <a href="https://codeforces.com/profile/">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=codeforces&theme=github_dark&force_username=true&border_color=404040" alt="Shivam Codeforces Stats"/>
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=amitthecoder&theme=github_dark&force_username=true&border_color=404040" alt="Shivam Codeforces Stats"/>
 </a>
 
 </div>
