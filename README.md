@@ -63,28 +63,6 @@ I enjoy learning about new tools and techniques that can improve the app develop
 ###
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
-<details>
-<p align="center">
-  <a href="https://github.com/amitthecoder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitthecoder&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/amitthecoder">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitthecoder&theme=radical" alt="Shivam's GitHub Contribution"/>
-  </a>
-</p>
-
-<hr>
-<div align="center">
-<a> 
-<!--     <a href="https://github.com/amitthecoder"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=amitthecoder&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
-
-  <div align="center">
-  <a href="https://github.com/amitthecoder"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amitthecoder&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br>
-</a>
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
