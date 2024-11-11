@@ -44,6 +44,8 @@ I enjoy learning about new tools and techniques that can improve the app develop
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=codeforces&theme=github_dark&force_username=true&border_color=404040" alt="Shivam Codeforces Stats"/>
 </a>
 </details>
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
@@ -84,25 +86,9 @@ I enjoy learning about new tools and techniques that can improve the app develop
   <br>
 </a>
 
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--- Shivam's Quotes ----------------------------------------------------------------------------------------------------------------------------->
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-  <hr><div align="center">
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Technology Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<hr>
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Developers' Quotes
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--- Shivam's Activity Graph ----------------------------------------------------------------------------------------------------------------------------->
+<!--- Amit Activity Graph ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
