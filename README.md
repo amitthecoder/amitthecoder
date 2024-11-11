@@ -2,6 +2,12 @@
 
 <img src="https://github.com/amitthecoders/amitthecoders/blob/main/resources/banner.png" alt="Hello world">
 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://itshivam.tech" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=myselfshivams&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
+
+
 
 ### About me
 
