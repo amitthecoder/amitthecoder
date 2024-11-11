@@ -29,7 +29,7 @@ I enjoy learning about new tools and techniques that can improve the app develop
 - [Codeforces](https://codeforces.com/profile/amitthecoder_)
 - [Google Developer](https://g.dev/amitthecoder)
 
-###
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -44,9 +44,6 @@ I enjoy learning about new tools and techniques that can improve the app develop
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
-
-###
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
