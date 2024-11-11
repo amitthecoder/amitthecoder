@@ -22,12 +22,12 @@ I enjoy learning about new tools and techniques that can improve the app develop
 
 ### Reach Out
 
-- [Google Developer](https://g.dev/amitthecoder)
 - [Github](https://github.com/amitthecoder)
 - [Linkedln](https://www.linkedin.com/in/amitthecoder)
 - [YouTube](https://www.youtube.com/@amitthecoders)
 - [Play Store](https://play.google.com/store/apps/dev?id=8173184158513909416)
 - [Codeforces](https://codeforces.com/profile/amitthecoder_)
+- [Google Developer](https://g.dev/amitthecoder)
 
 ###
 
