@@ -35,14 +35,6 @@ I enjoy learning about new tools and techniques that can improve the app develop
 
 </div>
 
-<div align="center>
-
-<a href="https://codeforces.com/profile/amitthecoder_">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=codeforces&theme=github_dark&force_username=true&border_color=404040" alt="Amit Codeforces Stats"/>
-</a>
-
-</div>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
