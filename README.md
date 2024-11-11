@@ -22,7 +22,7 @@ I enjoy learning about new tools and techniques that can improve the app develop
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-[Github](https://github.com/amitthecoder)  |  [Linkedln](https://www.linkedin.com/in/amitthecoder)  |  [YouTube](https://www.youtube.com/@amitthecoders)  |  [Play Store](https://play.google.com/store/apps/dev?id=8173184158513909416)  |  [Codeforces](https://codeforces.com/profile/amitthecoder_)  |  [Google Developer](https://g.dev/amitthecoder)
+Connect - [Github](https://github.com/amitthecoder)  |  [Linkedln](https://www.linkedin.com/in/amitthecoder)  |  [YouTube](https://www.youtube.com/@amitthecoders)  |  [Play Store](https://play.google.com/store/apps/dev?id=8173184158513909416)  |  [Codeforces](https://codeforces.com/profile/amitthecoder_)  |  [Google Developer](https://g.dev/amitthecoder)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
