@@ -4,7 +4,7 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://itshivam.tech" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=myselfshivams&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=amitthecoder&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
 
@@ -29,7 +29,7 @@ I enjoy learning about new tools and techniques that can improve the app develop
 ###
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmyselfshivams%2Fmyselfshiavms&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Famitthecoder%2Fmyselfshiavms&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
     <br><br>
   <a href="https://dev.to/itshivam"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username itshivam" /></a>
   <a href="https://www.linkedin.com/in/itshivam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username itshivam" /></a>
@@ -63,24 +63,24 @@ I enjoy learning about new tools and techniques that can improve the app develop
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 <details>
 <p align="center">
-  <a href="https://github.com/myselfshivams">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfshivams&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
+  <a href="https://github.com/amitthecoder">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitthecoder&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/myselfshivams">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myselfshivams&theme=radical" alt="Shivam's GitHub Contribution"/>
+  <a href="https://github.com/amitthecoder">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitthecoder&theme=radical" alt="Shivam's GitHub Contribution"/>
   </a>
 </p>
 
 <hr>
 <div align="center">
 <a> 
-<!--     <a href="https://github.com/myselfshivams"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=myselfshivams&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
+<!--     <a href="https://github.com/amitthecoder"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=amitthecoder&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
 
   <div align="center">
-  <a href="https://github.com/myselfshivams"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=myselfshivams&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/amitthecoder"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amitthecoder&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br>
 </a>
 
@@ -109,7 +109,7 @@ I enjoy learning about new tools and techniques that can improve the app develop
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=myselfshivams&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitthecoder&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
