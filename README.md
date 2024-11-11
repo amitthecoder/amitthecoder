@@ -29,8 +29,6 @@ I enjoy learning about new tools and techniques that can improve the app develop
 ###
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Famitthecoder%2Fmyselfshiavms&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-    <br><br>
   <a href="https://dev.to/itshivam"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username itshivam" /></a>
   <a href="https://www.linkedin.com/in/itshivam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username itshivam" /></a>
   <a href="mailto:founder@echotratech.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Shivam i.e.   founder@echotratech.com" /></a>
@@ -44,12 +42,6 @@ I enjoy learning about new tools and techniques that can improve the app develop
 </a>
 
 </div>
-
-## Coding Profiles📈
-<details>
-<span>
-
-</details>
 
 
 <div align="left">
