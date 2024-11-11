@@ -51,7 +51,9 @@ Connect - [Github](https://github.com/amitthecoder)  |  [Linkedln](https://www.l
   <img width="12" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="12" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="PHP logo" />               
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="PHP logo" />   
+  <img width="12" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="PHP logo"/>            
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
