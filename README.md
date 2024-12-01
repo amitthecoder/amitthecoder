@@ -63,9 +63,6 @@ Connect - [Github](https://github.com/amitthecoder)  |  [Linkedln](https://www.l
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-| Overview | Follow up Issues & PRs |
-|:--------:|:-------------------------:|
 | Discussions | Reactions |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
 
