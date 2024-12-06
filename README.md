@@ -1,24 +1,6 @@
-# Welcome
 
-<img src="https://github.com/amitthecoders/amitthecoders/blob/main/resources/banner.png" alt="Hello world">
-
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://itshivam.tech" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=amitthecoder&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
-    </a>
-
-
-
-### About me
-
-As an Android app developer, I have a passion for creating beautiful and functional apps for users. I write code primarily in Kotlin, which is a popular programming language for Android development. My focus is on creating a visually appealing and intuitive user experience that makes using the app a pleasure.
-
-
-I believe that a good app should not only be functional but also look great. Therefore, I pay close attention to design and user interface to create a seamless experience for users. I strive to ensure that the app is easy to navigate and provides the necessary functionality without overwhelming the user.
-
-
-I enjoy learning about new tools and techniques that can improve the app development process. I also collaborate with designers, product managers, and other developers to ensure that the team is aligned and working towards a common goal. I am always open to feedback and willing to adjust my approach to create better apps.
-
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>Android Development and Database.<br><br>👯 **I’m looking to collaborate on:**  <br>Android projects<br><br>🌱 **I’m currently learning:**  <br>Fullstack App Development<br><br>💬 **Ask me about:**  <br>Kotlin, Jetpack Compose, Java, C++ and any general android development questions.<br><br>⚡ **Fun fact:**  <br>I love creating apps.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -60,10 +42,5 @@ Connect - [Github](https://github.com/amitthecoder)  |  [Linkedln](https://www.l
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitthecoder&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-| Discussions | Reactions |
-| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
