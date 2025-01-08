@@ -4,7 +4,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-Connect - [Github](https://github.com/amitthecoder)  |  [Linkedln](https://www.linkedin.com/in/amitthecoder)  |  [YouTube](https://www.youtube.com/@amitthecoders)  |  [Play Store](https://play.google.com/store/apps/dev?id=8173184158513909416)  |  [Codeforces](https://codeforces.com/profile/amitthecoder_)  |  [Google Developer](https://g.dev/amitthecoder)
+Connect - [Github](https://github.com/amitthecoder)  |  [Linkedln](https://www.linkedin.com/in/amitthecoder)  |  [Play Store](https://play.google.com/store/apps/dev?id=8173184158513909416)  |  [Codeforces](https://codeforces.com/profile/amitthecoder_)  |  [Google Developer](https://g.dev/amitthecoder)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -20,8 +20,6 @@ Connect - [Github](https://github.com/amitthecoder)  |  [Linkedln](https://www.l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="Github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android studio logo" />
   <img width="12" />
