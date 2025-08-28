@@ -4,7 +4,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-Connect - [Github](https://github.com/amitthecoder)  |  [Linkedln](https://www.linkedin.com/in/amitthecoder)  |  [Play Store](https://play.google.com/store/apps/dev?id=8173184158513909416)  |  [Codeforces](https://codeforces.com/profile/amitthecoder_)  |  [Google Developer](https://g.dev/amitthecoder) | [Website](https://amitthecoder.github.io/amitthecoder)
+Connect - [Github](https://github.com/amitthecoder)  |  [Linkedln](https://www.linkedin.com/in/amitthecoder)  |  [Play Store](https://play.google.com/store/apps/dev?id=8173184158513909416)  |  [Google Developer](https://g.dev/amitthecoder)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
